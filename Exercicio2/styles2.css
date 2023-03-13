@@ -1,0 +1,33 @@
+body{
+    background: rgba(51, 134, 230, 0.651);
+}
+
+footer, header{
+    color: #fff;
+    text-align: center;
+}
+
+section{
+    background-color: #fff;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+
+    text-align: ;
+    margin: auto;
+
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.404);
+}
+
+footer{
+    font-style: italic;
+}
+
+input{
+    margin: 10px;
+}
+
+#dados{
+    margin-left: 20px;
+    font-style: oblique;
+}
